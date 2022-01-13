@@ -1,5 +1,5 @@
-# Yahboom ROS Transbot Robot with Lidar Depth camera support MoveIt simulation 3D mapping navigation for Nvidia Jetson NANO 4GB B01
-![](https://github.com/YahboomTechnology/Transbot/blob/main/Yahboom_Transbot_Robot.jpg)
+# Yahboom ROS Transbot Robot with Lidar Depth camera support MoveIt 3D mapping for Raspberry Pi
+![](https://github.com/YahboomTechnology/Trasnbot_Pi/blob/main/RaspberryPi_Transbot.jpg)
 
 # Introduction
 Transbot is a crawler off-road robot based on ROS(robot operating system), which is designed for ROS enthusiasts and robot players. It is equipped with high-performance hardware configurations such as NVIDIA Jetson NANO, Lidar, HD camera/depth camera, etc., which can realize applications such as robot motion control, remote communication, mapping navigation, following-avoiding, autopilot and robotic arm MoveIt simulation. A lot of teaching course documents and videos to help you get started with ROS easily.
