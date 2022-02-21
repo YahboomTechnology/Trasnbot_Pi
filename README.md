@@ -25,11 +25,8 @@ Mobile remote control APP integrated with a variety of AI functions; handle cont
 We provide 64 video tutorials and detailed documents. Whether you are a beginner or an experienced ROS player, you can easily use this robot.
 
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/dp/B09LV2RBR2)
 
 [By on Yahboom website](https://category.yahboom.net/products/transbot-pi)
-
-[By on Aliexpress](https://www.aliexpress.com/item/1005003753952999.html) 
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
