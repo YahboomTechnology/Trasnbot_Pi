@@ -3,4 +3,4 @@ https://drive.google.com/drive/folders/1QQ4yhJl64KRfpKOt6MDE2IsZeF3yjhGj?usp=sha
 
 
 VM_PiTransbot_image: 
-https://drive.google.com/drive/folders/1G4uYLER_NIizSPRlp7Xipoi5uPMSEVJS?usp=sharing
+https://drive.google.com/drive/folders/1f--R_ynIR8VRLKOVsC-IP6MBXOyf0jO6?usp=sharing
