@@ -1,5 +1,5 @@
 Yahboom_PiTransbot_image: 
-https://drive.google.com/drive/folders/1QQ4yhJl64KRfpKOt6MDE2IsZeF3yjhGj?usp=sharing
+https://drive.google.com/drive/folders/1QR8k_WrALu-drdLxeY1NdGFV89bMNrQw?usp=share_link
 
 
 VM_PiTransbot_image: 
