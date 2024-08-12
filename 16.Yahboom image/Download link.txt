@@ -1,6 +1,0 @@
-Yahboom_PiTransbot_image: 
-https://drive.google.com/drive/folders/1QR8k_WrALu-drdLxeY1NdGFV89bMNrQw?usp=share_link
-
-
-VM_PiTransbot_image: 
-https://drive.google.com/drive/folders/1f--R_ynIR8VRLKOVsC-IP6MBXOyf0jO6?usp=sharing
